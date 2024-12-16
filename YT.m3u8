@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Antena 1 Live" tvg-logo="https://example.com/antena1-logo.png" group-title="Romania",Antena 1
-https://p9.magicplaces.eu/antena1/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=6e255677ad621845d54e1fdf08f42e14528bbf10-accc1c52b98d22d68e58c608b33b25ec-1734306482-1734295682
-#EXTINF:-1 tvg-name="Crónica TV Ⓨ" tvg-logo="https://i.imgur.com/k2Ku8Ib.png" group-title="Argentina",Crónica TV
-https://www.youtube.com/c/cronicatv/live
+#EXTINF:-1,EuroNews Romania
+https://www.youtube.com/watch?v=hAULbT6PZhc

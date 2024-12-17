@@ -3,3 +3,5 @@
 https://v.trm.md/static/streaming-playlists/hls/6b3b523a-6a02-444c-8129-8354bbeffbc9/0.m3u8
 #EXTINF:-1,PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1,EuroNews RO
+https://p11.magicplaces.eu/euronewsrosd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=01f84ec336f99dc66ed069a383f368b312deb6ac-694d8b236546c8b4a0f95537a5dc58ec-1734484473-1734473673
